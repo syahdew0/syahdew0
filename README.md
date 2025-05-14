@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Reza Syahdewo**.<br>
 
-Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Web Developer** <br>
 
 Saya bertanggung jawab pada kualitas materi Junior Web Developer dengan dibekali [sertifikasi dari BNSP](https://drive.google.com/file/d/17SkdUrT9zr8XuBoSmf7_swFC53zxJ9rZ/view?usp=sharing).<br>
 
