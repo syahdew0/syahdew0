@@ -6,7 +6,6 @@ Saya seorang **Web Developer** <br>
 
 Saya bertanggung jawab pada kualitas materi Junior Web Developer dengan dibekali [sertifikasi dari BNSP](https://drive.google.com/file/d/17SkdUrT9zr8XuBoSmf7_swFC53zxJ9rZ/view?usp=sharing).<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2020.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/reza-syahdewo/)ku ya.
 
